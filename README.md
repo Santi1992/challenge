@@ -23,3 +23,6 @@ docker-compose up
     - Recorda revisar la casilla de spam.
 
 ![Vista Previa](comoPegarleAlservicio.PNG)
+
+
+3. La clave del postgres creado esta en el docker-compose.
